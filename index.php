@@ -1,4 +1,1 @@
-<?php
-
-echo "Fala ai Azure!Meu nome é Nickolas Duarte!!";
-echo 
+echo "Olá Azure, meu nome é Nickolas Duarte";
